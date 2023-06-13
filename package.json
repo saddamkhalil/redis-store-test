@@ -1,14 +1,14 @@
 {
-  "name": "nodejs-session-redis",
+  "name": "test",
   "version": "1.0.0",
-  "description": "Implement session store for express using redis",
+  "description": "aaa",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chamith Madusanka",
-  "license": "ISC",
+  "author": "test",
+  "license": "free",
   "dependencies": {
     "body-parser": "^1.19.0",
     "connect-redis": "^5.0.0",
